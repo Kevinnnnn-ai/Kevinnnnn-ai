@@ -1,4 +1,4 @@
-## 🔍 **Who am I?**
+### 🔍 **Who am I?**
 Hi, my name is *Kevin Jie*.<br><br>
 
 I'm passionate about *software* and *aerospace engineering*.<br><br>
@@ -10,7 +10,7 @@ Through extensive collaboration, communication, strong teamwork, and a robust pr
 I hope to transform the *software-aerospace landscape* and improve *AI integration*.<br><br>
 
 
-## ⚒️ **What do I work on and how?**
+### ⚒️ **What do I work on and how?**
 My core focuses:
 + API interaction
 <br><br>
@@ -22,5 +22,6 @@ Tools and programming languages I use:
 <br><br>
 
 
-## 📡 **How can you learn about and contact me?**
+### 📡 **How can you learn about and contact me?**
 + [LinkedIn](https://www.linkedin.com/in/kevin-jie-21a477368/)
++ [GMail](mailto:kevinwjie@gmail.com?)
