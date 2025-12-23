@@ -11,11 +11,11 @@ I hope to transform the *software-aerospace landscape* and improve *AI integrati
 
 
 ## ⚒️ **What do I work on and how?**
-My core focuses:<br><br>
+My core focuses:
 + API interaction
 <br><br>
 
-Tools and programming languages I use:<br><br>
+Tools and programming languages I use:
 + GitHub
 + VSCode
 + Python
