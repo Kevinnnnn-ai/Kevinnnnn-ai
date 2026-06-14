@@ -28,6 +28,7 @@
 - A student diving into **AI and machine learning**.
 - Interested in **AI applications for spaceflight and space exploration**.
 
+<br>
 </td>
 <td width="50%" valign="top">
 
@@ -36,6 +37,7 @@
 - Researching **genetic algorithm** implementations for solving **traveling salesman problems**.
 - Investigating **Claude Code** best practices for agentic coding efficacy.
 
+<br>
 </td>
 </tr>
 <tr>
@@ -48,6 +50,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+<br>
 </td>
 <td width="50%" valign="top">
 
@@ -57,6 +60,7 @@
 - I don't know if I am a coffee person, but Sprite never hurts!
 - I wish to change the world. At last, that is an aspiration everyone has, no?
 
+<br>
 </td>
 </tr>
 </table>
