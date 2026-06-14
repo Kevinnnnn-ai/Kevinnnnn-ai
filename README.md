@@ -19,46 +19,47 @@
 
 
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- A student diving into AI and machine learning.
-- Interested in AI applications for spaceflight and space exploration.
+### About Me
 
+- A student diving into **AI and machine learning**.
+- Interested in **AI applications for spaceflight and space exploration**.
 
+</td>
+<td width="50%" valign="top">
 
-<br>
+### Currently Working On
 
+- Researching **genetic algorithm** implementations for solving **traveling salesman problems**.
+- Investigating **Claude Code** best practices for agentic coding efficacy.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Currently Working On
-
-- Researching genetic algorithm implementations for solving traveling salesman problems.
-- Investigating Claude Code best practices for agentic coding efficacy.
-
-
-
-<br>
-
-
-
-## Tech I am Learning
+### Tech I am Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
 
-
-<br>
-
-
-
-## Fun Facts
+### Fun Facts
 
 - I am allergic to dogs.
 - I don't know if I am a coffee person, but Sprite never hurts!
 - I wish to change the world. At last, that is an aspiration everyone has, no?
+
+</td>
+</tr>
+</table>
 
 
 
@@ -70,6 +71,6 @@
 
 <div align="center">
 
-*Last updated: 2026-06-13*
+*Last updated: 2026-06-14*
 
 </div>
