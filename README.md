@@ -14,13 +14,14 @@
 
 
 ---
+<br>
 
 
 
 ## About Me
 
-- I am a student diving into AI and machine learning.
-- I am interested in AI applications for spaceflight and space exploration.
+- A student diving into AI and machine learning.
+- Interested in AI applications for spaceflight and space exploration.
 
 
 
@@ -30,9 +31,8 @@
 
 ## Currently Working On
 
-- **<Project name>** — <one short line about what it does / what you're trying>
-- **Learning** — <course, book, or skill you're focused on right now>
-- **Goal this year** — <e.g. ship 3 projects, finish an ML course>
+- Researching genetic algorithm implementations for solving traveling salesman problems.
+- Investigating Claude Code best practices for agentic coding efficacy.
 
 
 
