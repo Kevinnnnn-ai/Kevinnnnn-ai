@@ -24,11 +24,19 @@
 
 
 
+<br>
+
+
+
 ## Currently Working On
 
 - **<Project name>** — <one short line about what it does / what you're trying>
 - **Learning** — <course, book, or skill you're focused on right now>
 - **Goal this year** — <e.g. ship 3 projects, finish an ML course>
+
+
+
+<br>
 
 
 
@@ -41,11 +49,19 @@
 
 
 
+<br>
+
+
+
 ## Fun Facts
 
 - I am allergic to dogs.
 - I don't know if I am a coffee person, but Sprite never hurts!
 - I wish to change the world. At last, that is an aspiration everyone has, no?
+
+
+
+---
 
 
 
