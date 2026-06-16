@@ -15,10 +15,9 @@
 
 ---
 
+
+
 <br>
-
-
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -28,6 +27,8 @@
 - A student diving into **AI and machine learning**.
 - Interested in **AI applications for spaceflight and space exploration**.
 
+
+
 <br>
 </td>
 <td width="50%" valign="top">
@@ -36,6 +37,8 @@
 
 - Researching **genetic algorithm** implementations for solving **traveling salesman problems**.
 - Investigating **Claude Code** best practices for agentic coding efficacy.
+
+
 
 <br>
 </td>
@@ -49,6 +52,8 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+
 
 <br>
 </td>
@@ -64,10 +69,9 @@
 </td>
 </tr>
 </table>
-
-
-
 <br>
+
+
 
 ---
 
