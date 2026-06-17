@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I am Kevin!
+# Kevin Jie
 
 [![Email](https://img.shields.io/badge/Email-kevinwjie@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinwjie@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-jie-21a477368)
@@ -24,8 +24,8 @@
 
 ### About Me
 
-- A student diving into **AI and machine learning**.
-- Interested in **AI applications for spaceflight and space exploration**.
+- A student diving into **Python**, **AI**, and **ML**.
+- Interested in **AI** applications for **spaceflight** and **space exploration**.
 
 
 
@@ -36,7 +36,7 @@
 ### Currently Working On
 
 - Researching **genetic algorithm** implementations for solving **traveling salesman problems**.
-- Investigating **Claude Code** best practices for agentic coding efficacy.
+- Investigating **Claude Code** best practices for **agentic coding efficacy**.
 
 
 
