@@ -26,6 +26,7 @@
 
 - A student diving into **Python**, **AI**, and **ML**.
 - Interested in **AI** applications for **spaceflight** and **space exploration**.
+- Looking to understand more **aerodynamics** and **flight mechanics**.
 
 
 
@@ -34,6 +35,10 @@
 <td width="50%" valign="top">
 
 ### Currently Working On
+
+- Applying **AI to land rocket boosters**.
+- Learning **aerodynamics**.
+- Designing various **paper airplane designs**.
 
 
 
