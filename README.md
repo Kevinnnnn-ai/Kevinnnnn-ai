@@ -35,10 +35,6 @@
 
 ### Currently Working On
 
-- Researching **UMA Fairchem ML** potentials in **AZIB development**.
-- Researching **genetic algorithm** implementations for the **traveling salesman problem**.
-- Investigating **Claude Code** best practices for **agentic coding efficacy**.
-
 
 
 <br>
