@@ -36,9 +36,7 @@
 
 ### Currently Working On
 
-- Applying **AI to land rocket boosters**.
-- Learning **aerodynamics**.
-- Designing various **paper airplane designs**.
+- Learning **Python architecture**.
 
 
 
