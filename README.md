@@ -17,9 +17,9 @@
   <tr> <td width="50%" valign="top">
 
   ### About Me
-  - A student diving into **Python**, **AI**, and **ML**.
+  - A student diving into **C**, **Python**, and **Claude**.
   - Interested in **AI** applications for **spaceflight** and **space exploration**.
-  - Looking to understand more **aerodynamics** and **flight mechanics**.
+  - Looking to understand more about **aerodynamics** and **flight mechanics**.
 
   <br>
   </td>
@@ -33,9 +33,10 @@
   </td> </tr>
   <tr> <td width="50%" valign="top">
 
-  ### Tech I am Learning
+  ### Tech I Am Learning
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+  
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
