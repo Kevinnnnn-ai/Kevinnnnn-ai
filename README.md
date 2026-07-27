@@ -19,16 +19,16 @@ I am a student diving into C, Python, and agentic coding, with ambitions to inno
 
 ### Languages
 
-* C      : [devdocs.io/c](https://devdocs.io/c)
-* Python : [docs.python.org/3](https://docs.python.org/3)
+* C: [devdocs.io/c](https://devdocs.io/c)
+* Python: [docs.python.org/3](https://docs.python.org/3)
 
 ### Tools & Platforms
 
-* Claude Code : [code.claude.com/docs/en/overview](https://code.claude.com/docs/en/overview)
-* Git         : [git-scm.com/docs](https://git-scm.com/docs)
-* VS Code     : [code.visualstudio.com](https://code.visualstudio.com)
+* Claude Code: [code.claude.com/docs/en/overview](https://code.claude.com/docs/en/overview)
+* Git: [git-scm.com/docs](https://git-scm.com/docs)
+* VS Code: [code.visualstudio.com](https://code.visualstudio.com)
 
 ### Links
 
-* My Email    : [kevinwjie@gmail.com](mailto:kevinwjie@gmail.com)
-* My LinkedIn : [kevin-jie-21a477368](https://www.linkedin.com/in/kevin-jie-21a477368)
+* My Email: [kevinwjie@gmail.com](mailto:kevinwjie@gmail.com)
+* My LinkedIn: [kevin-jie-21a477368](https://www.linkedin.com/in/kevin-jie-21a477368)
