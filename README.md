@@ -30,3 +30,5 @@ I am a student diving into C, Python, and agentic coding, with ambitions to inno
 
 * My Email: [kevinwjie@gmail.com](mailto:kevinwjie@gmail.com)
 * My LinkedIn: [kevin-jie-21a477368](https://www.linkedin.com/in/kevin-jie-21a477368)
+* My Instagram: [kevinn_jie](https://www.instagram.com/kevinn_jie)
+* My YouTube: [Per Kevin Ad Astra](https://www.youtube.com/@per-kevin-ad-astra)
