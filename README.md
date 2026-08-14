@@ -5,30 +5,20 @@
 ██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║    ██   ██║██║██╔══╝  
 ██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║    ╚█████╔╝██║███████╗
 ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝     ╚════╝ ╚═╝╚══════╝
-│                                                            
-├─ Email    : kevinwjie@gmail.com                            
-├─ LinkedIn : kevin-jie-21a477368                            
-├─ Country  : United States                                  
-├─ Timezone : Central Time (UTC-6/-5)                        
-└─ Status   : Learning & Building                            
+│
+├─ Email    : kevinwjie@gmail.com
+├─ Country  : United States
+└─ Timezone : Central Time (UTC-6/-5)
 ```
 
-I am a student diving into C, Python, and agentic coding, with ambitions to innovate upon astronautic technologies.
+### My Programming Languages
 
-### Languages
+* C (C23)
+* Python (3.13, 3.14)
 
-* C: [devdocs.io/c](https://devdocs.io/c)
-* Python: [docs.python.org/3](https://docs.python.org/3)
+### My Links
 
-### Tools & Platforms
-
-* Claude Code: [code.claude.com/docs/en/overview](https://code.claude.com/docs/en/overview)
-* Git: [git-scm.com/docs](https://git-scm.com/docs)
-* VS Code: [code.visualstudio.com](https://code.visualstudio.com)
-
-### Links
-
-* My Email: [kevinwjie@gmail.com](mailto:kevinwjie@gmail.com)
-* My LinkedIn: [kevin-jie-21a477368](https://www.linkedin.com/in/kevin-jie-21a477368)
-* My Instagram: [kevinn_jie](https://www.instagram.com/kevinn_jie)
-* My YouTube: [Per Kevin Ad Astra](https://www.youtube.com/@per-kevin-ad-astra)
+* Email: [kevinwjie@gmail.com](mailto:kevinwjie@gmail.com)
+* LinkedIn: [kevin-jie-21a477368](https://www.linkedin.com/in/kevin-jie-21a477368)
+* Instagram: [kevinn_jie](https://www.instagram.com/kevinn_jie)
+* YouTube: [Per Kevin Ad Astra](https://www.youtube.com/@per-kevin-ad-astra)
