@@ -6,7 +6,6 @@
 ██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║    ╚█████╔╝██║███████╗
 ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝     ╚════╝ ╚═╝╚══════╝
 │
-├─ Email    : kevinwjie@gmail.com
 ├─ Country  : United States
 └─ Timezone : Central Time (UTC-6/-5)
 ```
