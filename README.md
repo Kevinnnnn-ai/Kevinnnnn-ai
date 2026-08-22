@@ -6,7 +6,7 @@
 ██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║    ╚█████╔╝██║███████╗
 ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝     ╚════╝ ╚═╝╚══════╝
 │
-├─ Country  : United States
+├─ Country   : United States
 └─ Time zone : Central Time (UTC-6/-5)
 ```
 
