@@ -10,8 +10,6 @@
 └─ Time zone : Central Time (UTC-6/-5)
 ```
 
-## About Me
-
 ## Contacts & Socials
 
 * Email: [kevinwjie@gmail.com](mailto:kevinwjie@gmail.com)
